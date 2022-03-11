@@ -12,8 +12,8 @@
 .parcel-cache
 
 #contracts
-target
-out
+/nft-contract/target
+/nft-contract/res
 notes
 
 # testing
